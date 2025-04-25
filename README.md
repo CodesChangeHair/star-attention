@@ -13,6 +13,14 @@ This repository contains the official implementation of our paper:
 - ✅ Star-Attention captures hierarchical features, reducing jitter in 3D pose predictions.
 - ✅ The module is easy to integrate into Transformer-based baselines like **MixSTE**.
 
+## Methods
+
+* (a): Attention module
+* (b): Star-Attention module
+
+![StarAttention](https://github.com/user-attachments/assets/de5864ed-ed39-4d01-98af-524673582ba5)
+
+
 ## How to Use
 
 Prepare Environment and Dataset according to [MixSTE](https://github.com/JinluZhang1126/MixSTE/tree/main). 
