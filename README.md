@@ -55,7 +55,7 @@ Evaluation and Training is same as MixSTE.
   title={Star Operation in Self-Attention for 3D Human Pose Estimation},
   author={Wang, Hao and Wang, Xiaochuan and Liu, Ruijun and Chen, Xiaoming and Li, Haisheng},
   year={2025},
-  journal={[Your Target Journal or Conference]}
+  journal={[ICASSP 2025]}
 }
 
 ## Contact 
